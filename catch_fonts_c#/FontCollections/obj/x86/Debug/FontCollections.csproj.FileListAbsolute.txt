@@ -1,0 +1,8 @@
+D:\ADEV\CompanyProjectBak\AdvertisingDisplay\trunk\FontCollections\FontCollections\bin\Debug\FontCollections.exe
+D:\ADEV\CompanyProjectBak\AdvertisingDisplay\trunk\FontCollections\FontCollections\bin\Debug\FontCollections.pdb
+D:\ADEV\CompanyProjectBak\AdvertisingDisplay\trunk\FontCollections\FontCollections\obj\x86\Debug\FontCollections.frmCollection.resources
+D:\ADEV\CompanyProjectBak\AdvertisingDisplay\trunk\FontCollections\FontCollections\obj\x86\Debug\FontCollections.Properties.Resources.resources
+D:\ADEV\CompanyProjectBak\AdvertisingDisplay\trunk\FontCollections\FontCollections\obj\x86\Debug\FontCollections.csproj.GenerateResource.Cache
+D:\ADEV\CompanyProjectBak\AdvertisingDisplay\trunk\FontCollections\FontCollections\obj\x86\Debug\FontCollections.exe
+D:\ADEV\CompanyProjectBak\AdvertisingDisplay\trunk\FontCollections\FontCollections\obj\x86\Debug\FontCollections.pdb
+D:\ADEV\CompanyProjectBak\AdvertisingDisplay\trunk\FontCollections\FontCollections\bin\Debug\Fonts.txt
